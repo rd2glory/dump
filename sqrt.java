@@ -1,6 +1,6 @@
 public class Main {
 
-    public static final int precision = 10; // how many decimal points
+    public static final int precision = 5; // how many decimal points
 
     public static void main(String[] args){
         System.out.println(sqrt(13));
